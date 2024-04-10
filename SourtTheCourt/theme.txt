@@ -1,0 +1,22 @@
+# Global properties
+title-text: ""
+desktop-image: "background.png"
+desktop-color: "#000000"
+terminal-font: "Chilanka Regular 18"
+terminal-box: "inbox_*.png"
+
+# Boot menu
++ boot_menu {
+	left = 60%
+	top = 5%
+	width = 820
+	height = 277
+
+	item_font = "Chilanka Regular 18"
+	selected_item_color = "#800080"
+	
+	item_padding = 20
+	item_height = 30
+	item_spacing = 20
+}
+
