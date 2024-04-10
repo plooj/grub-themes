@@ -1,6 +1,8 @@
 # grub themes made by me
 
 all thanks to [this guide](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial).
+## how to install
+to do
 
 ## themes
 - [x] [Sort the court](https://graebor.itch.io/sort-the-court)
