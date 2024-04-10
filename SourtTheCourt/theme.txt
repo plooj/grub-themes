@@ -16,7 +16,7 @@ terminal-box: "inbox_*.png"
 	selected_item_color = "#800080"
 	
 	item_padding = 20
-	item_height = 30
-	item_spacing = 20
+	item_height = 40
+	item_spacing = 10
 }
 
